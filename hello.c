@@ -1,8 +1,12 @@
 #include <stdio.h>
 
+void name(void)
+{
+    printf("My Name Is Ravish");
+}
+
+
 int main(void)
 {
-    int a = 19;
-    printf("Hello, World\n");
-    printf("Hello, I Am %d Years Old\n", a);
+    name();
 }
