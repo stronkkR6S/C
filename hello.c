@@ -2,7 +2,7 @@
 
 void name(void)
 {
-    printf("My Name Is Ravish");
+    printf("My Name Is Ravish\n");
 }
 
 
