@@ -8,5 +8,4 @@ void name(void)
 
 int main(void)
 {
-    name();
 }
