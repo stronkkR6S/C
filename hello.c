@@ -2,7 +2,8 @@
 
 void name(void)
 {
-    printf("My Name Is Ravish\n");
+    int height = 6;
+    printf("My Name Is Ravish, I Am %d Feet Tall\n", height);
 }
 
 
